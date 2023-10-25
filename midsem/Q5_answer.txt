@@ -1,0 +1,67 @@
+## MY Comments
+
+Matrix = [[2, -1, 0, 0, 0], [-1, 2, -1, 0, 0], [0, -1, 2, -1, 0], [0, 0, -1, 2, -1], [0, 0, 0, -1, 2]]
+
+Eigenvalue and corresponding eigenvector:
+3.7319592198507214 
+[-0.42044988550064566, 0.7864932548770928, -1.0, 0.9455084697770151, -0.5794651003971898]
+
+Next Eigenvalue---
+3.7319592198507214
+[-0.42044988550064566, 0.7864932548770928, -1.0, 0.9455084697770151, -0.5794651003971898]
+
+
+#### FULL CODE RETURN
+
+
+[[2, -1, 0, 0, 0], [-1, 2, -1, 0, 0], [0, -1, 2, -1, 0], [0, 0, -1, 2, -1], [0, 0, 0, -1, 2]]
+
+No. of eigenvalues: (1/2)
+2
+Please input guess matrix:
+i-th element:3
+i-th element:3
+i-th element:3
+i-th element:4
+i-th element:3
+Eigenvalue and corresponding eigenvector:
+3.7319592198507214 [-0.42044988550064566, 0.7864932548770928, -1.0, 0.9455084697770151, -0.5794651003971898]
+
+Next Eigenvalue---
+Please input guess matrix:
+i-th element:2
+i-th element:2
+i-th element:2
+i-th element:2
+i-th element:2
+Eigenvalue and corresponding eigenvector:
+3.00759205506985 [0.9714531914423898, -1.0, 0.10355373354790515, 0.7950772700068093, -0.823624078564275]
+
+Eigenvalues and corresponding eigenvectors:
+[3.7319592198507214, 3.00759205506985] [[-0.42044988550064566, 0.7864932548770928, -1.0, 0.9455084697770151, -0.5794651003971898], [0.9714531914423898, -1.0, 0.10355373354790515, 0.7950772700068093, -0.823624078564275]]
+Now, we compare the given expressions
+Eigenvector component: 0.9999999999999999
+Discrepency in eigen vector
+Eigenvector component: 1.7320508075688772
+Discrepency in eigen vector
+Eigenvector component: 2.0
+Discrepency in eigen vector
+Eigenvector component: 1.7320508075688774
+Discrepency in eigen vector
+Eigenvector component: 0.9999999999999999
+Discrepency in eigen vector
+Lambda 1: 3.7319592198507214 , Lambda from the expression: 3.7320508075688776
+Lambda Verified
+Eigenvector component: 1.7320508075688772
+Discrepency in eigen vector
+Eigenvector component: 1.7320508075688774
+Discrepency in eigen vector
+Eigenvector component: 2.4492935982947064e-16
+Discrepency in eigen vector
+Eigenvector component: -1.732050807568877
+Discrepency in eigen vector
+Eigenvector component: -1.7320508075688772
+Discrepency in eigen vector
+Lambda 1: 3.00759205506985 , Lambda from the expression: 3.0
+
+Process finished with exit code 0

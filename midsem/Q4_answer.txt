@@ -1,0 +1,13 @@
+## Comments:
+We take the log to get a eqn of st line
+
+## Output
+
+(4.731434285337495, -0.00925719196078415, 0.004258175336074454, 1.0295085727429754e-06, -5.258425469426975e-05, 15.170840594562922)
+Intercept:  4.731434285337495
+Slope:  -0.00925719196078415
+Chi square:  15.170840594562922
+
+Average Life-time (1/rate constant):  108.02411835427607
+
+Process finished with exit code 0
